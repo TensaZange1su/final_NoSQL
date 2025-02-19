@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d2db3340-9c30-46fa-8806-2cea00763b60)# final_NoSQL
+# final_NoSQL
 Personal Blog System - Final Project Documentation
 1. Team Information
 Team Members:
